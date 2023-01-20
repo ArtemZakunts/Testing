@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Autentification",
+			"name": "Autentification with token",
 			"event": [
 				{
 					"listen": "prerequest",
